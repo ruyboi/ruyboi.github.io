@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ruyboi.github.io/LQI/sitemap.LQI.gz
